@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chat/LoginViewController.swift"
+            timestampString = "497052416.963183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chat/LoginViewController.swift"
+            timestampString = "497052182.425425"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.passwordLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052185.541748"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.passwordLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052185.541939"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Chat.LoginViewController"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052185.542024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Chat.LoginViewController&gt;"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052185.542119"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chat/LoginViewController.swift"
+            timestampString = "497052416.963183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "LoginPressed(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.(LoginPressed (__ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052211.00269"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1238">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.(LoginPressed (__ObjC.UIButton) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052211.002838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chat/LoginViewController.swift"
+            timestampString = "497053540.965696"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "LoginPressed(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.(LoginPressed (__ObjC.UIButton) -&gt; ()).(closure #1)"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052213.217259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1238">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Chat.LoginViewController.(LoginPressed (__ObjC.UIButton) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "Chat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terencepx2015/Documents/Chat/Chat/LoginViewController.swift"
+                  timestampString = "497052213.217397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chat/ChatViewController.swift"
+            timestampString = "497057246.763118"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Chat/ChatViewController.swift"
+            timestampString = "497057246.763118"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tableView(_:cellForRowAtIndexPath:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
